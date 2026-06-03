@@ -171,7 +171,7 @@ EDA was performed using SQL queries to answer important business questions and g
 - Member customers contributed **55%** of total purchases.
 - E-wallet was the most preferred payment method with **34.5%** usage.
 - Evening hours recorded the highest sales activity.
-- Identified top-performing Walmart branches and profitable product categories.
+  
 
 ---
 

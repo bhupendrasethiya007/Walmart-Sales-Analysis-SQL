@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="images/Walmart-Logo-500x281.webp" alt="Walmart Sales Analysis" width="60%">
+</p>
+
+
+
 # Walmart Sales Data Analysis using SQL
 
 ## About the Project

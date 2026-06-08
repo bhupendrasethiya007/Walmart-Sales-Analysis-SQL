@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="images/Walmart_logo.webp" alt="Walmart Sales Analysis" width="60%">
+  <img src="Walmart_logo.webp" alt="Walmart Sales Analysis" width="60%">
 </p>
-
 
 
 # Walmart Sales Data Analysis using SQL
